@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет, я Николай 👋
 
-<!--
-**nikolaypol/nikolaypol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer
 
-Here are some ideas to get you started:
+Работаю с Java, Spring Boot, SQL, Liquibase, Maven, GitHub Actions и AI-инструментами для разработки.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии и направления
+
+- Java backend development
+- Spring Boot
+- SQL
+- Liquibase
+- Maven
+- GitHub Actions
+- AI-assisted development
+
+## Избранный проект
+
+### Liquibase multi-environment migration
+
+Spring Boot проект с настройкой Liquibase для нескольких баз данных.
+
+- Java 21
+- Spring Boot 3.5
+- Liquibase
+- H2
+- Maven
+- GitHub Actions
+
+Репозиторий: https://github.com/nikolaypol/liquibase-multi-environment-migration
